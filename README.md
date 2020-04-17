@@ -1,5 +1,5 @@
 <h1 align = "center">
-<img src = "https://ik.imagekit.io/w23ceozvcn/Design_sem_nome_KzaQsae_G.png" width="400px"/>
+<img src = "https://ik.imagekit.io/w23ceozvcn/Design_sem_nome_KzaQsae_G.png" width="200px"/>
 </h1>
 
 ## Índice
