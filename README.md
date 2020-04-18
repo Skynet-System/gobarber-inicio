@@ -3,14 +3,15 @@
 </h1>
 
 ## Índice
-- [Sobre](#-Sobre)
+- [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
 ## 📝Sobre
 ---
-O projeto **GoBarber** é uma aplicação desenvolvida com a finalidade para a reserva de 
-horário de clientes.
+Neste projeto **GoBarber** iremos conhecer os principais conceitos de **API REST** e de **NodeJS**, iremos
+aprender sobre **ROTAS**, métodos **HTTP**, **tipos de parâmentros**, **debbugs**, **middleware** e no final
+desse módulos teremos desenvolvido grande parte dos conceitos para as próximas aplicações **NodeJS**.
 
 ## 🚀Tecnolgias Utilizadas
 ---
